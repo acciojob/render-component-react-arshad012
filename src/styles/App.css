@@ -4,6 +4,10 @@ h1 {
     }
     
 
+#main {
+    text-align: center;
+}
+
 button{
     color: #27aedb;
     text-align: center;
